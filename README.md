@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hello 👋 I'm Elias Eskind 
-### A recent graduate from the University of Miami who is looking to get involve in the world of data. 
+### I'm recent graduate from the University of Miami who is looking to get involve in the world of data. 
 ### I have some of my projects posted here if you would like to learn more about me and what I have done.
 
 ### If you would like to get in contact fell free to send me an [email](eliaseskind@gmail.com) or add me on [LinkedIn](https://www.linkedin.com/in/elias-eskind/).
