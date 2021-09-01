@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 
 ### If you would like to get in contact feel free to send me an [email](eliaseskind@gmail.com) or add me on [LinkedIn](https://www.linkedin.com/in/elias-eskind/).
 
+### Also check out my [website](https://eliaseskind.com/).
+
 ### Thanks for stopping by and have a good one!!!
